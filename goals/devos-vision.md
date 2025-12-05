@@ -1,8 +1,9 @@
 # AI-Native DevOS – Vision, Rationale, and Implementation Direction
 
-**Document Type:** Strategic Context
-**Operational Source of Truth:** [DEVOS_ARCHITECTURE_CANVAS.md](DEVOS_ARCHITECTURE_CANVAS.md)
-**Purpose:** This document provides the "why" and strategic direction. The canvas provides the "how" and operational patterns.
+**Document Type:** Strategic Context  
+**Upstream Vision:** [YahwehOS Integrated Vision](./yahwehos-integrated-vision.md)  
+**Operational Source of Truth:** [DEVOS_ARCHITECTURE_CANVAS.md](DEVOS_ARCHITECTURE_CANVAS.md)  
+**Purpose:** This document provides the DevOS-specific "why" and strategic direction. The canvas provides the "how" and operational patterns.
 
 Last Updated: 2025-12-03
 Owner: Architecture + Operations

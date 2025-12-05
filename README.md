@@ -7,6 +7,7 @@
 - **[Cycles](./cycles/)**: Active and planned work cycles (Shape Up).
 - **[Backlog](./backlog/)**: Ready-to-bet items and future ideas.
 - **[Standards](./standards/)**: Mirrored copies of key standards (Source of Truth: \	oolkit-standards\).
+- **[Goals](./goals/)**: Long-lived strategic vision and architecture (DevOS, YahwehOS, observability, policy).
 
 ## 🔄 Workflow
 

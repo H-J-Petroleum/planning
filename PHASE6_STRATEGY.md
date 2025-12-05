@@ -4,7 +4,9 @@
 **Status:** Active (Cycle 1-3)
 
 ## Overview
-This document outlines the strategic approach for **Phase 6: Repository Standardization + Toolkit-First Adoption**. 
+This document outlines the strategic approach for **Phase 6: Repository Standardization + Toolkit-First Adoption**. It assumes the broader multi-repo, multi-organization vision defined in:
+
+- `goals/yahwehos-integrated-vision.md` – YahwehOS / DevOS / Covenant ERP integrated vision
 
 Execution is tracked in 2-week cycles:
 *   [Cycle 1: Foundation](./cycles/cycle-1-foundation/README.md)
